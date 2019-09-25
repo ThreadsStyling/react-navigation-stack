@@ -1,6 +1,6 @@
 {
   "name": "@threads/react-navigation-stack",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "description": "Stack navigator component for React Navigation",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -19,9 +19,6 @@
     "release": "release-it",
     "example": "yarn --cwd example",
     "bootstrap": "yarn example && yarn"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
   },
   "keywords": [
     "react-native-component",
