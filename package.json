@@ -30,14 +30,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-navigation/react-navigation-stack.git"
+    "url": "git+https://github.com/ThreadsStyling/react-navigation-stack.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-navigation/react-navigation-stack/issues"
+    "url": "https://github.com/ThreadsStyling/react-navigation-stack/issues"
   },
-  "homepage": "https://github.com/react-navigation/react-navigation-stack#readme",
+  "homepage": "https://github.com/ThreadsStyling/react-navigation-stack#readme",
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@commitlint/config-conventional": "^7.5.0",
